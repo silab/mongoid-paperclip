@@ -1,6 +1,9 @@
 Mongoid::Paperclip - Making Paperclip play nice with Mongoid ODM
 ================================================================
 
+i just updated the paperclip dependency to 2.4.3
+------------------------------------------------
+
 As the title suggests: `Mongoid::Paperclip` makes it easy to hook up [Paperclip](https://github.com/thoughtbot/paperclip) with [Mongoid](http://mongoid.org/).
 
 This is actually easier and faster to set up than when using Paperclip and the ActiveRecord ORM.
